@@ -18,3 +18,23 @@ D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.
 D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\AttendanceManager.csproj.GenerateResource.Cache
 D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.exe
 D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.pdb
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\Institute Management.exe
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\Institute Management.pdb
+D:\AttendaceManager\AttendanceManager\NFCCS\bin\Release\Institute Management.exe
+D:\AttendaceManager\AttendanceManager\NFCCS\bin\Release\Institute Management.pdb
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\ResolveAssemblyReference.cache
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.AttendanceReport.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Attendance.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Batches.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Classes.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Courses.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Form1.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Institute.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.ManualSms.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.StudentFees.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\NFCCS.MainWindow.resources
+D:\AttendaceManager\AttendanceManager\NFCCS\obj\Release\AttendanceManager.csproj.GenerateResource.Cache

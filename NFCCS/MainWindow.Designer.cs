@@ -76,6 +76,7 @@
             this.label12 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.logOutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitApplicationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.allSettingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.institutesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.coursesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -99,8 +100,6 @@
             this.attendaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.studentFeesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.sMSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label9 = new System.Windows.Forms.Label();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             this.textBox13 = new System.Windows.Forms.TextBox();
@@ -367,7 +366,7 @@
             this.studentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.staffToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.oterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exitApplicationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             tabControl3 = new System.Windows.Forms.TabControl();
             tabControl3.SuspendLayout();
             this.tabPage10.SuspendLayout();
@@ -378,8 +377,7 @@
             this.groupBox18.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.menuStrip1.SuspendLayout();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.groupBox22.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -417,6 +415,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl3
@@ -925,7 +924,7 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.Color.Transparent;
+            this.menuStrip1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.menuStrip1.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(1);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 16);
@@ -953,6 +952,14 @@
             this.logOutToolStripMenuItem.Size = new System.Drawing.Size(53, 22);
             this.logOutToolStripMenuItem.Text = "LogOut";
             // 
+            // exitApplicationToolStripMenuItem
+            // 
+            this.exitApplicationToolStripMenuItem.BackColor = System.Drawing.Color.Peru;
+            this.exitApplicationToolStripMenuItem.ForeColor = System.Drawing.Color.Honeydew;
+            this.exitApplicationToolStripMenuItem.Name = "exitApplicationToolStripMenuItem";
+            this.exitApplicationToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
+            this.exitApplicationToolStripMenuItem.Text = "Exit Application";
+            // 
             // allSettingsToolStripMenuItem
             // 
             this.allSettingsToolStripMenuItem.BackColor = System.Drawing.Color.Transparent;
@@ -969,25 +976,25 @@
             // institutesToolStripMenuItem
             // 
             this.institutesToolStripMenuItem.Name = "institutesToolStripMenuItem";
-            this.institutesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.institutesToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.institutesToolStripMenuItem.Text = "Institutes";
             // 
             // coursesToolStripMenuItem1
             // 
             this.coursesToolStripMenuItem1.Name = "coursesToolStripMenuItem1";
-            this.coursesToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.coursesToolStripMenuItem1.Size = new System.Drawing.Size(137, 22);
             this.coursesToolStripMenuItem1.Text = "Courses";
             // 
             // feesToolStripMenuItem
             // 
             this.feesToolStripMenuItem.Name = "feesToolStripMenuItem";
-            this.feesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.feesToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.feesToolStripMenuItem.Text = "Fees";
             // 
             // misceleniousToolStripMenuItem
             // 
             this.misceleniousToolStripMenuItem.Name = "misceleniousToolStripMenuItem";
-            this.misceleniousToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.misceleniousToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.misceleniousToolStripMenuItem.Text = "Miscellaneous";
             // 
             // LoginAccountToolStripMenuItem
@@ -1128,46 +1135,13 @@
             this.sMSToolStripMenuItem.Text = "SMS";
             this.sMSToolStripMenuItem.Click += new System.EventHandler(this.sMSToolStripMenuItem_Click);
             // 
-            // panel1
-            // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.BackColor = System.Drawing.Color.Transparent;
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.label9);
-            this.panel1.Controls.Add(this.dateTimePicker2);
-            this.panel1.Controls.Add(this.textBox13);
-            this.panel1.Controls.Add(this.label26);
-            this.panel1.Controls.Add(this.label27);
-            this.panel1.Controls.Add(this.textBox14);
-            this.panel1.Controls.Add(this.groupBox22);
-            this.panel1.Location = new System.Drawing.Point(1, 27);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(792, 92);
-            this.panel1.TabIndex = 1;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(438, 83);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.Transparent;
+            this.label9.BackColor = System.Drawing.Color.WhiteSmoke;
             this.label9.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(501, 10);
+            this.label9.Location = new System.Drawing.Point(59, 20);
             this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(69, 14);
@@ -1178,7 +1152,7 @@
             // 
             this.dateTimePicker2.AllowDrop = true;
             this.dateTimePicker2.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimePicker2.Location = new System.Drawing.Point(576, 53);
+            this.dateTimePicker2.Location = new System.Drawing.Point(134, 64);
             this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 23);
@@ -1187,7 +1161,7 @@
             // textBox13
             // 
             this.textBox13.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox13.Location = new System.Drawing.Point(576, 29);
+            this.textBox13.Location = new System.Drawing.Point(134, 39);
             this.textBox13.Margin = new System.Windows.Forms.Padding(2);
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(200, 23);
@@ -1196,10 +1170,10 @@
             // label26
             // 
             this.label26.AutoSize = true;
-            this.label26.BackColor = System.Drawing.Color.Transparent;
+            this.label26.BackColor = System.Drawing.Color.WhiteSmoke;
             this.label26.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.ForeColor = System.Drawing.Color.Black;
-            this.label26.Location = new System.Drawing.Point(477, 58);
+            this.label26.Location = new System.Drawing.Point(35, 68);
             this.label26.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(93, 14);
@@ -1209,10 +1183,10 @@
             // label27
             // 
             this.label27.AutoSize = true;
-            this.label27.BackColor = System.Drawing.Color.Transparent;
+            this.label27.BackColor = System.Drawing.Color.WhiteSmoke;
             this.label27.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.ForeColor = System.Drawing.Color.Black;
-            this.label27.Location = new System.Drawing.Point(457, 34);
+            this.label27.Location = new System.Drawing.Point(15, 44);
             this.label27.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(113, 14);
@@ -1222,7 +1196,7 @@
             // textBox14
             // 
             this.textBox14.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox14.Location = new System.Drawing.Point(576, 5);
+            this.textBox14.Location = new System.Drawing.Point(134, 15);
             this.textBox14.Margin = new System.Windows.Forms.Padding(2);
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(200, 23);
@@ -1230,13 +1204,21 @@
             // 
             // groupBox22
             // 
-            this.groupBox22.Location = new System.Drawing.Point(441, -9);
+            this.groupBox22.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.groupBox22.Controls.Add(this.label9);
+            this.groupBox22.Controls.Add(this.label26);
+            this.groupBox22.Controls.Add(this.dateTimePicker2);
+            this.groupBox22.Controls.Add(this.label27);
+            this.groupBox22.Controls.Add(this.textBox13);
+            this.groupBox22.Controls.Add(this.textBox14);
+            this.groupBox22.Location = new System.Drawing.Point(446, 22);
             this.groupBox22.Margin = new System.Windows.Forms.Padding(1);
             this.groupBox22.Name = "groupBox22";
             this.groupBox22.Padding = new System.Windows.Forms.Padding(1);
-            this.groupBox22.Size = new System.Drawing.Size(347, 92);
+            this.groupBox22.Size = new System.Drawing.Size(347, 97);
             this.groupBox22.TabIndex = 70;
             this.groupBox22.TabStop = false;
+            this.groupBox22.Enter += new System.EventHandler(this.groupBox22_Enter);
             // 
             // tabControl1
             // 
@@ -1289,19 +1271,18 @@
             this.groupBox1.Controls.Add(this.pictureBox8);
             this.groupBox1.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.SeaGreen;
-            this.groupBox1.Location = new System.Drawing.Point(425, 106);
+            this.groupBox1.Location = new System.Drawing.Point(516, 30);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(1, 2, 1, 2);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(1, 2, 1, 2);
             this.groupBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.groupBox1.Size = new System.Drawing.Size(305, 205);
+            this.groupBox1.Size = new System.Drawing.Size(201, 343);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "LOGIN HERE";
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(27, 84);
+            this.textBox3.Location = new System.Drawing.Point(39, 81);
             this.textBox3.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(130, 23);
@@ -1312,7 +1293,7 @@
             // 
             this.button2.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.SeaGreen;
-            this.button2.Location = new System.Drawing.Point(27, 122);
+            this.button2.Location = new System.Drawing.Point(39, 119);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(130, 30);
@@ -1322,7 +1303,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(27, 39);
+            this.textBox4.Location = new System.Drawing.Point(39, 36);
             this.textBox4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(130, 23);
@@ -1333,7 +1314,7 @@
             // 
             this.button3.Font = new System.Drawing.Font("Segoe Condensed", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.SeaGreen;
-            this.button3.Location = new System.Drawing.Point(27, 156);
+            this.button3.Location = new System.Drawing.Point(39, 153);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(130, 30);
@@ -1346,7 +1327,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.SeaGreen;
-            this.label4.Location = new System.Drawing.Point(64, 22);
+            this.label4.Location = new System.Drawing.Point(73, 19);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(63, 15);
@@ -1358,7 +1339,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.SeaGreen;
-            this.label5.Location = new System.Drawing.Point(64, 67);
+            this.label5.Location = new System.Drawing.Point(73, 64);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(63, 15);
@@ -1369,9 +1350,9 @@
             // 
             this.pictureBox8.BackgroundImage = global::NFCCS.Properties.Resources.Id_Verified_Filled_100__1_;
             this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox8.Location = new System.Drawing.Point(162, 49);
+            this.pictureBox8.Location = new System.Drawing.Point(39, 188);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(110, 121);
+            this.pictureBox8.Size = new System.Drawing.Size(130, 132);
             this.pictureBox8.TabIndex = 6;
             this.pictureBox8.TabStop = false;
             // 
@@ -1380,7 +1361,7 @@
             this.pictureBox2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.pictureBox2.BackgroundImage = global::NFCCS.Properties.Resources.login;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(26, 25);
+            this.pictureBox2.Location = new System.Drawing.Point(27, 13);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(729, 407);
@@ -4234,13 +4215,18 @@
             this.oterToolStripMenuItem.Text = "Other";
             this.oterToolStripMenuItem.Click += new System.EventHandler(this.oterToolStripMenuItem_Click);
             // 
-            // exitApplicationToolStripMenuItem
+            // pictureBox1
             // 
-            this.exitApplicationToolStripMenuItem.BackColor = System.Drawing.Color.Peru;
-            this.exitApplicationToolStripMenuItem.ForeColor = System.Drawing.Color.Honeydew;
-            this.exitApplicationToolStripMenuItem.Name = "exitApplicationToolStripMenuItem";
-            this.exitApplicationToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.exitApplicationToolStripMenuItem.Text = "Exit Application";
+            this.pictureBox1.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.pictureBox1.Location = new System.Drawing.Point(1, 29);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(442, 82);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // MainWindow
             // 
@@ -4251,8 +4237,9 @@
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(794, 586);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.tabControl1);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.groupBox22);
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Segoe Condensed", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.SeaGreen;
@@ -4278,9 +4265,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.groupBox22.ResumeLayout(false);
+            this.groupBox22.PerformLayout();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
@@ -4334,6 +4320,7 @@
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -4358,8 +4345,6 @@
         private System.Windows.Forms.ToolStripMenuItem attendanceReportToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem attendaceToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem studentFeesToolStripMenuItem1;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ToolStripMenuItem studentFeesReportToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sMSToolStripMenuItem;
         private System.Windows.Forms.TabControl tabControl1;
@@ -4680,5 +4665,6 @@
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.GroupBox groupBox22;
         private System.Windows.Forms.ToolStripMenuItem exitApplicationToolStripMenuItem;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

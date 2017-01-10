@@ -258,5 +258,10 @@ namespace NFCCS
         {
 
         }
+
+        private void groupBox22_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
