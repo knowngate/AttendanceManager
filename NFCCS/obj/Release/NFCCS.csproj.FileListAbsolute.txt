@@ -1,0 +1,104 @@
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Release\NFCCS.exe
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Release\NFCCS.pdb
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Release\DDSTamaEncoder.DLL
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Release\MySql.Data.dll
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\ResolveAssemblyReference.cache
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.AttendaceRepor.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Attendance.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Batches.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Classes.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Courses.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Form1.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Institute.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.ManualSms.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.StudentFees.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.wellcome.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.csproj.GenerateResource.Cache
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.exe
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Release\NFCCS.pdb
+D:\NFCCS\NFCCS\NFCCS\bin\Release\NFCCS.exe
+D:\NFCCS\NFCCS\NFCCS\bin\Release\NFCCS.pdb
+D:\NFCCS\NFCCS\NFCCS\obj\Release\ResolveAssemblyReference.cache
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.AttendaceRepor.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Attendance.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Batches.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Classes.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Courses.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Form1.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Institute.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.ManualSms.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.StudentFees.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.wellcome.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.csproj.GenerateResource.Cache
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.exe
+D:\NFCCS\NFCCS\NFCCS\obj\Release\NFCCS.pdb
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.exe
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.pdb
+D:\eduline project\NFCCS\NFCCS\bin\Release\NFCCS.exe
+D:\eduline project\NFCCS\NFCCS\bin\Release\NFCCS.pdb
+D:\eduline project\NFCCS\NFCCS\obj\Release\ResolveAssemblyReference.cache
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.AttendaceRepor.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Attendance.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Batches.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Classes.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Courses.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Form1.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Institute.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.ManualSms.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentFees.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.wellcome.resources
+D:\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.csproj.GenerateResource.Cache
+F:\EDULINE ALL COPIES\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.exe
+F:\EDULINE ALL COPIES\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.pdb
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.exe
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.pdb
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.AttendaceRepor.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Attendance.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Batches.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Classes.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Courses.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Form1.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Institute.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.ManualSms.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentFees.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.wellcome.resources
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\obj\Release\NFCCS.csproj.GenerateResource.Cache
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\bin\Release\NFCCS.exe
+C:\Users\amv\Desktop\eduline project\NFCCS\NFCCS\bin\Release\NFCCS.pdb
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Attendance.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Batches.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Classes.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Courses.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Form1.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Institute.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.ManualSms.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFees.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.wellcome.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.csproj.GenerateResource.Cache
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.AttendanceReport.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.exe
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.pdb
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.exe
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.pdb

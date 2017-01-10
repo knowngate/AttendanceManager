@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NFCCS.AttendanceReport" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQAACAAARECgAGAAAACAAQAAAAcAAAgJQAAAAA=</HashCode>
+      <FileName>AttendaceRepor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Attendance" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJQAAAEAACQAABAQEACEAAKCAAQAKAAIEAAgAQBEEDA=</HashCode>
+      <FileName>Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.attendancerpt" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAIJAAAQAIAAAAAIAEAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>attendancerpt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Cachedattendancerpt" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>attendancerpt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NFCCS.Batches" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAQSAAABEAAAGEAAACgAcAAAgIACAAAUBAACA=</HashCode>
+      <FileName>Batches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.BatchwiseStudents" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAAACAAAREAIACAgAECAAYAAAAYAAAgIQAAAAA=</HashCode>
+      <FileName>BatchwiseStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Classes" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAASAAABAAAACEIAASABYAAAAMAAABAQBIACA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Courses" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAQAWQIABAQAACkAgAKAAQAAAAIACAAAQBAAAA=</HashCode>
+      <FileName>Courses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.DBConnection" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEABAAAABAAAAAAQCAAAAACAAAhAAAAI=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Form1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/5QAAAFQACwAQDASCACUQAICACwQMIAIEGQQBQfMFDA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Institute" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>eAAEAUwAAyIgABAkAACUQgQSADwQEAAIGIAAAUVMgDI=</HashCode>
+      <FileName>Institute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.MainWindow" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/3eZ89YIubSsRf+zGBS1cIFHMvy791gvVD2u0axzJD4=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.ManualSms" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+AABAAQAACAgBBEQAACUEAACAAw4AAgIEGABAQBEAAA=</HashCode>
+      <FileName>ManualSms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.NFChandler" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAEAAAAAAgIAAAACAAQAAAIIAAAAAAAAQAA=</HashCode>
+      <FileName>NFChandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Program" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.staticinfo" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAgAAAAEAAAAAAAAAAACAAA=</HashCode>
+      <FileName>staticinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.stdinfo" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwAAAwAAAGJABAAAQAQAABgCQBqAAAAQAAEABBA=</HashCode>
+      <FileName>stdinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.stdinforpt" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAIJAAAQCIEAAAAIAEAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>stdinforpt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Cachedstdinforpt" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdinforpt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NFCCS.StudentFeeReport" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAREAIACAgAACAAQAAAAYAAAgIQAAAAA=</HashCode>
+      <FileName>StudentFeeReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.StudentFees" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJQAAEXAASQAABAQEACEAAKCIAUAKABIEIAIAQD0EDA=</HashCode>
+      <FileName>StudentFees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Studentfeesrpt" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAIJAAAQAIEAAAAIAEAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Studentfeesrpt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.CachedStudentfeesrpt" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Studentfeesrpt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NFCCS.StudentInfoform" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/5QAAAVAACwAQBASCACUAgICACQAIIAIEAQQBQPMFBA=</HashCode>
+      <FileName>StudentInfoform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAhEAAAAQAIAAAAEAAAAAACEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NFCCS.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

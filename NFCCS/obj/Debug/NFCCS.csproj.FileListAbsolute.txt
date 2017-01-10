@@ -1,0 +1,124 @@
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\bin\Debug\DDSTamaEncoder.dll
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+C:\Users\Basu\Documents\Visual Studio 2008\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+C:\Data\Projects\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+C:\Data\Projects\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+C:\Data\Projects\NFCCS\NFCCS\bin\Debug\DDSTamaEncoder.dll
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+C:\Data\Projects\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache
+C:\Users\Public\Pictures\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+C:\Users\Public\Pictures\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+C:\Users\Public\Pictures\NFCCS\NFCCS\bin\Debug\DDSTamaEncoder.dll
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+C:\Users\Public\Pictures\NFCCS\NFCCS\obj\Debug\NFCCS.ManualSms.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+C:\Users\Basu\Desktop\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+C:\Users\Basu\Desktop\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+C:\Users\Basu\Desktop\NFCCS\NFCCS\bin\Debug\DDSTamaEncoder.dll
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.ManualSms.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+C:\Users\Basu\Desktop\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Debug\DDSTamaEncoder.DLL
+D:\NFCCS(1)\NFCCS\NFCCS\bin\Debug\MySql.Data.dll
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.ManualSms.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+D:\NFCCS(1)\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.exe
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.pdb
+D:\NFCCS\NFCCS\NFCCS\bin\Debug\NFCCS.exe
+D:\NFCCS\NFCCS\NFCCS\bin\Debug\NFCCS.pdb
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\ResolveAssemblyReference.cache
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.AttendaceRepor.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Attendance.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Batches.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.BatchwiseStudents.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Classes.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Courses.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Form1.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Institute.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.ManualSms.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.Properties.Resources.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFeeReport.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.StudentFees.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.StudentInfoform.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.wellcome.resources
+D:\NFCCS\NFCCS\NFCCS\obj\Debug\NFCCS.csproj.GenerateResource.Cache

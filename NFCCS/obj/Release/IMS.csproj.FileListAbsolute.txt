@@ -1,0 +1,40 @@
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.exe
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.pdb
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.AttendanceReport.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Attendance.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Batches.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Classes.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Courses.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Form1.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Institute.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.ManualSms.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFees.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\IMS.csproj.GenerateResource.Cache
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.exe
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.pdb
+C:\Users\amv\Desktop\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.MainWindow.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.exe
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\Institute Management.pdb
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.exe
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\bin\Release\Institute Management.pdb
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\ResolveAssemblyReference.cache
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.AttendanceReport.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Attendance.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Batches.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.BatchwiseStudents.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Classes.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Courses.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Form1.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Institute.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.ManualSms.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.Properties.Resources.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFeeReport.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentFees.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.StudentInfoform.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\NFCCS.MainWindow.resources
+D:\eduline project\eduline project\AttendanceManagement\NFCCS\obj\Release\IMS.csproj.GenerateResource.Cache
